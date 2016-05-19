@@ -6,6 +6,8 @@ import os.path
 import pyodbc
 import pprint
 
+#May 18 / 10:44PM
+
 qrystr= ''
 resultset = ''
 
